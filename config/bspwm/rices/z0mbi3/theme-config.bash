@@ -91,10 +91,10 @@ sl_date="${fg:1}"
 sl_verify="${green:1}"
 
 # Gtk theme
-gtk_theme="Decayce-zk"
+gtk_theme="Arc"
 gtk_icons="Luv-Folders"
 gtk_cursor="Qogirr-Dark"
-geany_theme="z0mbi3-Decay"
+geany_theme="Arc"
 
 # Wallpaper engine
 # Available engines:
